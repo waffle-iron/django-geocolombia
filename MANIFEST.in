@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include geocolombia/fixtures *
+recursive-include geocolombia/migrations *
