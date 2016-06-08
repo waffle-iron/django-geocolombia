@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/serivt/django-geocolombia.png?label=ready&title=Ready 
+ :target: https://waffle.io/serivt/django-geocolombia
+ :alt: 'Stories in Ready'
 =====
 Django-Geocolombia
 =====
